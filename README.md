@@ -1,15 +1,18 @@
 # Sparks_Foundation_DS_Task-1
 
+#task-1:Prediction using supervised ml
+
 #Data Science
 
 #Level: Beginner
 
 #Dataset link:https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+
 #Sample solution: https://drive.google.com/file/d/1koGHPElsHuXo9HPL4BQkZWRMJkOEHiv4/view
 
-#youtube link:
+#youtube link:https://youtu.be/PEl2KJUsIcQ
 
-#linkdin post link:
+#linkdin post link:https://www.linkedin.com/posts/prajwal-m-s-449114185_task1-gripaug21-python-activity-6829705228703670273-78Mo
 
 #snapshot:
 
